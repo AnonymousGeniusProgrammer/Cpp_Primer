@@ -1,1 +1,1 @@
-add_executable(32-35 32-35.cpp)
+add_executable(Section2 Section2.cpp)

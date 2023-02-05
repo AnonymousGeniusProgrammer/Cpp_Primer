@@ -1,10 +1,10 @@
 {
     "configurations": [
     {
-        "name": "32-35",
+        "name": "Section2",
         "type": "cppvsdbg",
         "request": "launch",
-        "program": "${workspaceFolder}/out/build/vc22-x64/Chapter3/Debug/32-35.exe",
+        "program": "${workspaceFolder}/out/build/vc22-x64/Chapter3/Debug/Section2.exe",
         "args": [
             "ReadLine"
         ],
