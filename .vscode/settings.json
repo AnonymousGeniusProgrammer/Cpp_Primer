@@ -1,0 +1,11 @@
+{
+    "cmake.allowCommentsInPresetsFile": true,
+    "cmake.useCMakePresets": "always",
+    "output.smartScroll.enabled": true,
+    "C_Cpp.default.configurationProvider": "ms-vscode.cmake-tools",
+    "debug.onTaskErrors": "showErrors",
+    "editor.detectIndentation": false,
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.rulers": [120],
+}

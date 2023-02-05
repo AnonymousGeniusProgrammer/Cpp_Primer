@@ -1,0 +1,1 @@
+add_executable(32-35 32-35.cpp)
