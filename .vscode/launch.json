@@ -1,18 +1,28 @@
 {
     "configurations": [
-    {
-        "name": "Section2",
-        "type": "cppvsdbg",
-        "request": "launch",
-        "program": "${workspaceFolder}/out/build/vc22-x64/Chapter3/Debug/Section2.exe",
-        "args": [
-            "ReadLine"
-        ],
-        "stopAtEntry": false,
-        "cwd": "${fileDirname}",
-        "environment": [],
-        "console": "externalTerminal"
-    }
+        {
+            "name": "Section2",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/out/build/vc22-x64/Chapter3/Debug/Section2.exe",
+            "args": [
+                "ReadLine"
+            ],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        },
+        {
+            "name": "Section3",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/out/build/vc22-x64/Chapter3/Debug/Section3.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal"
+        }
     ]
-
 }
