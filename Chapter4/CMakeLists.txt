@@ -1,1 +1,1 @@
-# add_executable()
+add_executable(Section7 Section7.cpp)
