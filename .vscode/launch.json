@@ -36,6 +36,30 @@
             "environment": [],
             "console": "externalTerminal",
             "preLaunchTask":"CMake: build"
+        },
+        {
+            "name": "Section4-9",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/out/build/vc22-x64/Chapter4/Debug/Section9.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal",
+            "preLaunchTask":"CMake: build"
+        },
+        {
+            "name": "Section4-10",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "${workspaceFolder}/out/build/vc22-x64/Chapter4/Debug/Section10.exe",
+            "args": [],
+            "stopAtEntry": false,
+            "cwd": "${fileDirname}",
+            "environment": [],
+            "console": "externalTerminal",
+            "preLaunchTask":"CMake: build"
         }
     ]
 }
